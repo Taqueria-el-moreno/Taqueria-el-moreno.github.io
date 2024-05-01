@@ -1,7 +1,7 @@
 /* background-image sirve para poder poner una imagen de fondo pero
 si quiero un color de fondo cambio img por color*/
 body{
-	background-image:url("../imagenes/fondo.jpg");
+	background-image:url("../imagenes/fondo.JPG");
 	color:#000000;
 	font-family:"New York", "Courier New";
 	font-size: 40px;
